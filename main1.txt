@@ -1,0 +1,35 @@
+﻿<html>
+<head>
+<title>main</title>
+</head>
+<body style="background-color:purple;" >
+<h1 style="background-color:black;color:white;text-align:center;font-size:75" >Barcelona</h1>
+<img src="F:\mohamed\project it/1.png" alt="logo" style="width:400px;float:right;">
+<p style="font-size:35;color:white;">
+The 2010s marked a golden era for FC Barcelona,
+ defined by the brilliance of Lionel Messi and
+ a dominant style of play under Pep Guardiola. 
+This period saw the club achieve unprecedented success,
+ winning multiple La Liga titles, Champions League trophies,
+ and domestic cups. Messi's individual brilliance, combined 
+with the collective brilliance of players like Xavi, Iniesta, 
+and Piqué, created a team that captivated the world with their
+ attacking flair and tactical sophistication. The "tiki-taka" 
+philosophy, emphasizing short passes and possession-based football,
+ became synonymous with Barcelona's identity during this era.
+</p>
+</body>
+<form action="image.html">
+<div align="center">
+<input type="submit" value="next page" style="width:120px;height:50px;font-size:25px;color:purple;background-color:black;">
+</div>
+</form>
+<br>
+<br>
+<form action="about us.html">
+<div>
+<input type="submit" value="about us" style="width:120px;height:50px;font-size:25px;color:white;background-color:gray;">
+</div>
+</form>
+
+</html>
